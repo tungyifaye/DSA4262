@@ -17,5 +17,5 @@ This notebook was developed and tested in **Kaggle Notebooks with GPU enabled**.
 4. Enable GPU in Notebook Settings.
 5. Run all cells from top to bottom.
 
-Note: This notebook uses interactive widgets (ipywidgets). GitHub’s notebook preview does not fully support widgets and may display an "Invalid Notebook" rendering message.
+Note: This notebook uses interactive widgets (ipywidgets). GitHub’s notebook preview does not fully support widgets and may display an "Invalid Notebook" rendering message.  
 The notebook works correctly in Kaggle, Google Colab, or Jupyter Notebook / VSCode locally.
